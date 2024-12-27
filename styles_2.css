@@ -1,0 +1,46 @@
+body, html {
+    background-color: #1c1c1c; /* Fundo escuro elegante */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif; /* Fonte legível */
+    color: #f5f5f5; /* Texto claro no fundo escuro */
+}
+
+.container_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px; /* Adicione um espaçamento interno */
+    max-width: fit-content; /* Faz a borda se ajustar ao tamanho da imagem */
+    margin: 0 auto; /* Centraliza o conteúdo */ 
+}
+
+img {
+    display: block;
+    max-width: 100%; /* Garante que a imagem não ultrapasse o tamanho do container */
+}
+
+h1{
+    color: #b5651d; /* Cor de café para o título */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container_2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px; /* Adicione um espaçamento interno */
+    max-width: fit-content; /* Faz a borda se ajustar ao tamanho da imagem */
+    margin: 0 auto; /* Centraliza o conteúdo */ 
+}
+
+img {
+    display: block;
+    max-width: 100%; /* Garante que a imagem não ultrapasse o tamanho do container */
+}
+
+h1{
+    color: #b5651d; /* Cor de café para o título */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
